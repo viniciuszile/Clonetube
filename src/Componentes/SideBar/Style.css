@@ -1,0 +1,46 @@
+.root{
+    height: '100vh';
+    background-color: rgb(255, 255, 255);
+}
+
+.appBar {
+    box-shadow:  'none';
+    z-index:  + 1;
+    background-color: rgb(255, 255, 255);
+}
+
+.logo {
+    height: 25px;
+
+}
+
+.drawer{
+    width: 240px;
+    flex-shrink: 0px;
+}
+
+.menuIcon {
+    padding-Right: 5px;
+    padding-Left: 6px;
+}
+
+.icons {
+    padding-Right: 5PX;
+}
+
+.grow {
+    flex-grow: 1;
+}
+
+.listItemText {
+    font-size: 14px;
+}
+ 
+.listItem {
+    padding-Top: 4px;
+    padding-Bottom: 4px;
+}
+
+.botao{
+    color: #3EA6FF;
+}

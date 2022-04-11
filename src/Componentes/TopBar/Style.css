@@ -1,0 +1,59 @@
+
+.navbar{
+    margin-left: 400px;
+}
+
+.btn{
+    height: 40px;
+    background-color: #3f51b5;
+    font-size: large;
+    color: rgba(255, 255, 255, 0.54);
+}
+
+.form-control{
+    width: 500px;
+    height: 40px;
+    font-size: large;
+}
+
+.form-control:focus{
+box-shadow: 0 0 0 0;
+border: 1px solid rgb(143, 143, 143);
+outline: 0;
+}
+
+
+
+
+@media (max-width: 1540px){
+    .form-control{
+        width: 250px;
+        height: 40px;
+        font-size: large;
+    }
+    .btn{
+        height: 40px;
+        background-color: #3f51b5;
+        font-size: medium;
+        color: rgba(255, 255, 255, 0.54);
+    }
+    
+}
+
+@media (max-width: 1300px){
+    .form-control{
+        display: none;
+        width: 100px;
+        height: 40px;
+        font-size: large;
+    }
+    .btn{
+        display: none;
+        width: 50px;
+        height: 40px;
+        background-color: #3f51b5;
+        font-size: small;
+        color: rgba(255, 255, 255, 0.54);
+    }
+    
+}
