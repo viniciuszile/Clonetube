@@ -10,7 +10,6 @@
   
   ![ Badge ](https://img.shields.io/badge/Made%20in-VSCode-1f425f.svg)<br>
   
- 
   ![ Crachá ](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![ Badge ](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
   ![ Badge ](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
@@ -20,9 +19,6 @@
   
   <h1 align="center">Preview Do Site </h1>
   <img align="center" src="https://raw.githubusercontent.com/viniciuszile/Clonetube/main/public/images/preview.PNG" >
-
-  https://mui.com/pt/
-  
   
 <div align="center">
   <h1 align="start">Criação</h1>
